@@ -2,12 +2,12 @@
 // WEBSITE NAME (NICKNAME)
 // =======================================================
 var website_name = "ARIYANFFYT";
-
+https://t.me/ARYN_JK
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
 var telegram_channel_link = "https://t.me/ARYN_JK";
-
+https://t.me/Earnify_Network_Discussion
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
